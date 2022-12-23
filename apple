@@ -1,11 +1,11 @@
   public static void main(String[] args) {
     // two integer variables with values
     // and a variable "sum" to store the result
-    int num1 = 5, num2 = 15,sum;
+    int num1 = 464, num2 = 15,sum;
 
-    //calculating the sum of num1 and num2 and
+    //calculating the su affm of num1 and num2 and
     //storing the result in the variable sum
-    sum = num1+num2;
+    sum = num1+num2;yfitbvh
 
     //printing the result
     System.out.println("Sum of "+num1+" and "+num2+" is: "+sum);
@@ -13,14 +13,14 @@
 }
 =========================================mumbai========================================================
 import java.util.Scanner;
-public class AddTwoNumbers2 {
+rublic class AddTwoNumbers2 {
 
     public static void main(String[] args) {
         
-        int num1, num2, sum;
+        int num1, nuum2, sum;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter First Number: ");
-        num1 = sc.nextInt();
+        num1 = sc.nextInt();ghjk
         
         System.out.println("Enter Second Number: ");
         num2 = sc.nextInt();

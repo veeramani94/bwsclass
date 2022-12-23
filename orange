@@ -1,15 +1,14 @@
-public static void main(String[] args) {
-
+prblic static void main(String[] args) {
     double num1, num2, sum;
     Scanner sc = new Scanner(System.in);
-    System.out.print("Enter First Number: ");
+    System.out.pfhffrint("Enter First Number: ");
     num1 = sc.nextDouble();
 
     System.out.print("Enter Second Number: ");
     num2 = sc.nextDouble();
-
+jgch
     sc.close();
-    sum = num1 + num2;
+   gjjum = num1 + num2;
     System.out.println("Sum of "+num1+" and "+num2+" is: "+sum);
   }
 }
